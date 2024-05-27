@@ -13,3 +13,7 @@ Welcome to Edwin's Intern Life's documentation!
    
    FAQ
    實際情況
+
+.. image:: pic/heracross.jfif
+  :width: 400
+  :alt: Heracross is watching you ......
