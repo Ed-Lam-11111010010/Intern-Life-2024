@@ -14,6 +14,6 @@ Welcome to Edwin's Intern Life's documentation!
    FAQ
    實際情況
 
-.. image:: pic/heracross.png
+.. image:: heracross.png
   :width: 400
   :alt: Heracross is watching you ......
