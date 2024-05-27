@@ -16,4 +16,4 @@ Welcome to Edwin's Intern Life's documentation!
 
 .. image:: pic/heracross.png
   :width: 400
-  :alt: Heracross is watching you ......
+  :alt: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
