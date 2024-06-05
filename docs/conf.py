@@ -21,6 +21,10 @@ source_parsers = {
     '.md': CommonMarkParser,
 }
 
+def setup(app):
+    import six
+    print('Six version: %s' % six.__version__)
+    
 source_suffix = ['.rst', '.md']
 
 extensions = [
