@@ -11,8 +11,8 @@ Welcome to Edwin's Intern Life's documentation!
 .. toctree::
    :maxdepth: 2
    
-   FAQ
-   實際情況
+   FAQ.rst
+   實際情況.md
 
 .. image:: pic/heracross.png
   :width: 400
